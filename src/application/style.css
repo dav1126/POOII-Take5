@@ -1,0 +1,18 @@
+.root
+{
+	
+}
+.text
+{
+	-fx-font-size: 12pt;
+	-fx-font-family: "Dialog"; 
+}
+.message
+{
+	-fx-alignment: center;	  
+}
+.button
+{
+	-fx-font-size: 12pt;
+	-fx-font-family: "Dialog"; 
+}
